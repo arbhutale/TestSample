@@ -1,0 +1,112 @@
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\ApplicationInsights.config
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\csc.exe
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\TestSample.Tests.dll.config
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\TestSample.Tests.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\TestSample.Tests.pdb
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\TestSample.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Owin.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\EntityFramework.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\TestSample.pdb
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\EntityFramework.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\obj\Debug\TestSample.Tests.csprojResolveAssemblyReference.cache
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\obj\Debug\TestSample.Tests.dll
+c:\users\b anil kumar\documents\visual studio 2015\Projects\TestSample\TestSample.Tests\obj\Debug\TestSample.Tests.pdb
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\ApplicationInsights.config
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\csc.exe
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\vbc.exe
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\TestSample.Tests.dll.config
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\TestSample.Tests.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\TestSample.Tests.pdb
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Helpers.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Mvc.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Razor.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\TestSample.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Optimization.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Owin.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\EntityFramework.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\TestSample.pdb
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Helpers.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Mvc.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Razor.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\System.Web.Optimization.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\EntityFramework.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\TekSpacePractice\TestSample\TestSample.Tests\obj\Debug\TestSample.Tests.csprojResolveAssemblyReference.cache
+C:\TekSpacePractice\TestSample\TestSample.Tests\obj\Debug\TestSample.Tests.dll
+C:\TekSpacePractice\TestSample\TestSample.Tests\obj\Debug\TestSample.Tests.pdb
