@@ -26,5 +26,9 @@ namespace TestSample.Controllers
 
             return View();
         }
+        public ActionResult My()
+        {
+            return View();
+        }
     }
 }

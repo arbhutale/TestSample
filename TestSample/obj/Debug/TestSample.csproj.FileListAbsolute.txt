@@ -158,6 +158,5 @@ C:\TekSpacePractice\TestSample\TestSample\bin\Microsoft.Owin.Security.OAuth.xml
 C:\TekSpacePractice\TestSample\TestSample\bin\Microsoft.Owin.Security.Google.xml
 C:\TekSpacePractice\TestSample\TestSample\bin\Microsoft.Owin.Security.Twitter.xml
 C:\TekSpacePractice\TestSample\TestSample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\TekSpacePractice\TestSample\TestSample\obj\Debug\TestSample.csprojResolveAssemblyReference.cache
 C:\TekSpacePractice\TestSample\TestSample\obj\Debug\TestSample.dll
 C:\TekSpacePractice\TestSample\TestSample\obj\Debug\TestSample.pdb
